@@ -21,6 +21,10 @@ Base de datos utilizada: Microsoft Acces
 Interfaz utilizada: Formularios de Microsoft Excel
 
 ## Interfaz principal
-![Cuaderno](https://user-images.githubusercontent.com/67118105/175780364-5e24c87e-caa2-431b-a29a-f0fc928df286.jpg)
+![Cuaderno_1](https://user-images.githubusercontent.com/67118105/175780471-e1f3de32-a5a1-45d5-850a-80ba73b81d36.jpg)
 
 ## Metodos de pago
+![WhatsApp Image 2022-06-25 at 10 24 49 AM (1)](https://user-images.githubusercontent.com/67118105/175780501-1e4c6fb2-30de-4903-bbbb-63fe0749b61c.jpeg)
+
+## Busqueda inteligente de clientes e historiales clínicos
+![buscadorInteligente](https://user-images.githubusercontent.com/67118105/175780506-8114f295-b9de-46d8-b40e-06a4a481c8b7.jpg)
