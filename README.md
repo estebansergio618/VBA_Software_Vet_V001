@@ -19,3 +19,8 @@ Ventajas:
 
 Base de datos utilizada: Microsoft Acces
 Interfaz utilizada: Formularios de Microsoft Excel
+
+## Interfaz principal
+![Cuaderno](https://user-images.githubusercontent.com/67118105/175780364-5e24c87e-caa2-431b-a29a-f0fc928df286.jpg)
+
+## Metodos de pago
