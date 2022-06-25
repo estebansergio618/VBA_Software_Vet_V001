@@ -1,5 +1,5 @@
 # VBA_Software_Vet_V001
-Lenguaje usado: Visual Basic for Applications
+Lenguaje usado: Visual Basic for Applications  
 En este repositorio se encontrará la primera versión de un software que funcionó desde el 01-Feb-2022 hasta el 15-Jun-2022 en una clinica veterinaria.
 
 Problematicas:
@@ -16,9 +16,12 @@ Ventajas:
 - Guarda los egresos y motivo de egreso diariamente de la empresa.
 - Mantiene el flujo diario de la caja chica de la empresa con precisión.
 - Las problematicas mencionadas se convierten en ventaja en veterinarias con poco volumen de clientes.
+- Permite distintos métodos de pago a un mismo cliente.
 
-Base de datos utilizada: Microsoft Acces
-Interfaz utilizada: Formularios de Microsoft Excel
+Base de datos utilizada: Microsoft Acces (T-SQL)  
+Interfaz utilizada: Formularios de Microsoft Excel (VBA)  
+
+Se escondió apellidos y números de teléfono de los clientes como el nombre de la empresa.  
 
 ## Interfaz principal
 ![Cuaderno_1](https://user-images.githubusercontent.com/67118105/175780471-e1f3de32-a5a1-45d5-850a-80ba73b81d36.jpg)
@@ -28,3 +31,9 @@ Interfaz utilizada: Formularios de Microsoft Excel
 
 ## Busqueda inteligente de clientes e historiales clínicos
 ![buscadorInteligente](https://user-images.githubusercontent.com/67118105/175780506-8114f295-b9de-46d8-b40e-06a4a481c8b7.jpg)
+
+Diseño de interfaz gráfica, Formularios, Modulos y Diseño de relaciones en la BD los cree desde cero, si les sirve esta versión coloquen mi nombre o github así las personas seguirán viendo mi trabajo :)  
+
+La versión 2 incluye:
+- **Arqueos de caja** (Link para que sepan de que se trata: https://www.gestiopolis.com/que-es-arqueo-de-caja/)  
+- Soluciona los problemas mencionados y se perfila a ser la última versión
